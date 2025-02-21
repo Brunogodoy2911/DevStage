@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import { getRanking } from "@/http/api";
+import { getRanking } from "@/http/fake-api";
 
 import cooper from "../../../assets/medal-cooper.svg";
 import gold from "../../../assets/medal-gold.svg";
