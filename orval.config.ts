@@ -2,7 +2,7 @@ import { defineConfig } from 'orval'
 
 export default defineConfig({
   api: {
-    input: 'http://localhost:3333/docs/json',
+    input: 'http://apidevstage.com/docs/json',
     output: {
       target: './src/http/api.ts',
       client: 'fetch',
