@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<p align="center">
+  <h1 align="center">DevStage</h1>
+</p>
 
-## Getting Started
+## 💻 Sobre
 
-First, run the development server:
+O projeto é um site responsivo de inscrição e indicação para eventos, construido na trilha de React no NLW Connect, um evento gratuito da Rocketseat com o professor Diego, onde tive a oportunidade de aprender NextJs e Tailwind CSS.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+___
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tecnologias
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-## Learn More
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [NextJs](https://nextjs.org/)
+- [Lucide Icons](https://lucide.dev/)
+- [React-Hook-Form](https://react-hook-form.com/)
+- [Zod](https://zod.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-To learn more about Next.js, take a look at the following resources:
+___
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎨 Layout
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+![capa](public/capa.png)
+![capa-preenchido](public/capa-preenchido.png)
+![invite](public/invite.png)
 
-## Deploy on Vercel
+___
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Made with ❤️ by Bruno Henrique de Godoy 👋🏽 [Get in Touch!](https://www.linkedin.com/in/bruno-godoy-07806726b/)
